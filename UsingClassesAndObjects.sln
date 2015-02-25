@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. LeapYear", "01. LeapYear\01. LeapYear.csproj", "{6D0FEB64-66FD-474B-B47B-2BB228BD7BF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. RandomNumbers", "02. RandomNumbers\02. RandomNumbers.csproj", "{7E5AAC7D-3FEA-4B52-AC5F-B78671ADBED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6D0FEB64-66FD-474B-B47B-2BB228BD7BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0FEB64-66FD-474B-B47B-2BB228BD7BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0FEB64-66FD-474B-B47B-2BB228BD7BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5AAC7D-3FEA-4B52-AC5F-B78671ADBED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5AAC7D-3FEA-4B52-AC5F-B78671ADBED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5AAC7D-3FEA-4B52-AC5F-B78671ADBED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5AAC7D-3FEA-4B52-AC5F-B78671ADBED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
