@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. RandomNumbers", "02. Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DayOfWeek", "03. DayOfWeek\03. DayOfWeek.csproj", "{77B94758-E8E9-4206-A868-5F5B70095F19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TriangleSurface", "04. TriangleSurface\04. TriangleSurface.csproj", "{67E1F202-219B-45BE-A908-B1C0E4273B4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{77B94758-E8E9-4206-A868-5F5B70095F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B94758-E8E9-4206-A868-5F5B70095F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B94758-E8E9-4206-A868-5F5B70095F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
