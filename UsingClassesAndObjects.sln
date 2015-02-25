@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DayOfWeek", "03. DayOfW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TriangleSurface", "04. TriangleSurface\04. TriangleSurface.csproj", "{67E1F202-219B-45BE-A908-B1C0E4273B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Workdays", "05. Workdays\05. Workdays.csproj", "{24419A3F-E9A8-4024-9F33-9755798D5961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SumIntegers", "06. SumIntegers\06. SumIntegers.csproj", "{2223604E-0202-409A-BFD3-EA27A508A4B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67E1F202-219B-45BE-A908-B1C0E4273B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24419A3F-E9A8-4024-9F33-9755798D5961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24419A3F-E9A8-4024-9F33-9755798D5961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24419A3F-E9A8-4024-9F33-9755798D5961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24419A3F-E9A8-4024-9F33-9755798D5961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2223604E-0202-409A-BFD3-EA27A508A4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2223604E-0202-409A-BFD3-EA27A508A4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2223604E-0202-409A-BFD3-EA27A508A4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2223604E-0202-409A-BFD3-EA27A508A4B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
